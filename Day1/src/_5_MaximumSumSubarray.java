@@ -1,4 +1,4 @@
-public class MaximumSumSubarray_5 {
+public class _5_MaximumSumSubarray {
     long maxSubarraySum(int arr[], int n){
         //kadanes's algorithm
         long max_current=arr[0], max_global=arr[0];

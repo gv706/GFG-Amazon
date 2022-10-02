@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class SubarrayWithGivenSum_1 {
+public class _1_SubarrayWithGivenSum {
     static ArrayList<Integer> subarraySum(int[] arr, int n, int s)
     {
         //using sliding window technique

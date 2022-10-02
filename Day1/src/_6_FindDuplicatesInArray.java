@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class FindDuplicatesInArray_6 {
+public class _6_FindDuplicatesInArray {
 
     public static ArrayList<Integer> duplicates(int arr[], int n) {
        /* ArrayList<Integer> res=new ArrayList<>();

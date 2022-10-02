@@ -1,4 +1,4 @@
-public class MissingNumberInAnArray_3 {
+public class _3_MissingNumberInAnArray {
     int MissingNumber(int a[], int n) {
         int xor=0;
 

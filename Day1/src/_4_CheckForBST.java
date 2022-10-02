@@ -1,4 +1,4 @@
-public class CheckForBST_4 {
+public class _4_CheckForBST {
     boolean isBST(Node root) {
         return isValid(root, Integer.MIN_VALUE, Integer.MAX_VALUE);
     }

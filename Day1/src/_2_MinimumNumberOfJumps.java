@@ -1,4 +1,4 @@
-public class MinimumNumberOfJumps_2 {
+public class _2_MinimumNumberOfJumps {
     static int minJumps(int[] arr){
         int n=arr.length;
         if (n==1)
